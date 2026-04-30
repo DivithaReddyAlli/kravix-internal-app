@@ -1,1 +1,1 @@
-Profile module created
+Profile module v1.0
